@@ -1,0 +1,76 @@
+School ID,School Name,Borough,Building Code,Street Address,City,State,Zip Code,Latitude,Longitude,Phone Number,Start Time,End Time,Student Enrollment,Percent White,Percent Black,Percent Hispanic,Percent Asian,Average Score (SAT Math),Average Score (SAT Reading),Average Score (SAT Writing),Percent Tested
+18K642,Urban Action Academy,Brooklyn,K500,1600 Rockaway Parkway,Brooklyn,NY,11236,40.64184,-73.89869,718-290-8720,8:10 AM,3:20 PM,309,4.2%,79.0%,12.3%,2.9%,362,396,393,44.9%
+18K566,Brooklyn Generation School,Brooklyn,K515,6565 Flatlands Avenue,Brooklyn,NY,11236,40.63263,-73.9178,718-968-4200,8:30 AM,3:20 PM,286,1.4%,85.0%,8.7%,1.7%,392,406,403,50.0%
+18K633,High School for Medical Professions,Brooklyn,K500,1600 Rockaway Parkway,Brooklyn,NY,11236,40.64184,-73.89869,718-290-8700,8:00 AM,3:00 PM,432,0.2%,81.9%,13.2%,2.8%,404,427,424,60.2%
+18K617,High School for Innovation in Advertising and Media,Brooklyn,K500,1600 Rockaway Parkway,Brooklyn,NY,11236,40.64184,-73.89869,718-290-8760,8:00 AM,3:15 PM,303,2.6%,85.8%,9.6%,1.3%,390,410,397,59.1%
+18K576,Victory Collegiate High School,Brooklyn,K515,6565 Flatlands Avenue,Brooklyn,NY,11236,40.63263,-73.9178,718-968-1530,8:30 AM,3:30 PM,331,1.2%,88.8%,6.3%,0.9%,386,408,402,72.7%
+18K567,Brooklyn Theatre Arts High School,Brooklyn,K515,6565 Flatlands Avenue,Brooklyn,NY,11236,40.63263,-73.9178,718-968-1072,8:30 AM,3:23 PM,395,1.8%,82.0%,13.2%,0.5%,379,393,373,69.1%
+18K637,Academy for Conservation and the Environment,Brooklyn,K515,6565 Flatlands Avenue,Brooklyn,NY,11236,40.63263,-73.9178,718-968-4101,8:33 AM,3:19 PM,308,1.3%,86.0%,9.7%,1.6%,381,397,390,50.8%
+32K554,All City Leadership Secondary School,Brooklyn,K554,321 Palmetto Street,Brooklyn,NY,11237,40.69741,-73.91315,718-246-6500,7:45 AM,2:30 PM,358,1.7%,14.6%,77.0%,6.2%,467,446,448,85.0%
+32K168,Brooklyn School for Math and Research,Brooklyn,K480,400 Irving Avenue,Brooklyn,NY,11237,40.69696,-73.91082,718-381-7100,8:15 AM,3:45 PM,247,4.5%,53.8%,38.1%,2.4%,,,,0.0%
+32K549,Bushwick School for Social Justice,Brooklyn,K480,400 Irving Avenue,Brooklyn,NY,11237,40.69696,-73.91082,718-381-7100,8:15 AM,3:00 PM,405,2.5%,20.5%,76.0%,0.5%,365,357,357,50.0%
+32K403,Academy for Environmental Leadership,Brooklyn,K480,400 Irving Avenue,Brooklyn,NY,11237,40.69696,-73.91082,718-381-7100,8:00 AM,3:00 PM,340,1.5%,19.4%,77.1%,1.8%,365,366,348,71.3%
+32K552,Academy of Urban Planning,Brooklyn,K480,400 Irving Avenue,Brooklyn,NY,11237,40.69696,-73.91082,718-381-7100,8:15 AM,3:45 PM,279,0.7%,23.3%,73.8%,0.7%,392,374,379,41.9%
+13K499,ACORN Community High School,Brooklyn,K909,561 Grand Avenue,Brooklyn,NY,11238,40.67851,-73.96207,718-789-2258,8:15 AM,3:15 PM,504,1.6%,83.5%,12.9%,1.0%,379,395,385,61.3%
+25Q460,Flushing High School,Queens,Q460,35-01 Union Street,Flushing,NY,11354,40.76524,-73.82786,718-888-7500,8:51 AM,3:37 PM,2186,3.7%,23.7%,51.1%,20.3%,444,407,405,46.1%
+25Q241,Queens High School for Language Studies,Queens,Q460,35-01 Union Street,Flushing,NY,11354,40.76524,-73.82786,718-888-7530,8:00 AM,3:37 PM,205,2.4%,10.2%,23.9%,61.0%,,,,
+25Q240,Veritas Academy,Queens,Q460,35-01 Union Street,Flushing,NY,11354,40.76524,-73.82786,718-888-7520,7:50 AM,2:40 PM,275,12.7%,13.8%,52.4%,20.0%,,,,
+25Q281,East-West School of International Studies,Queens,Q237,46-21 Colden Street,Flushing,NY,11355,40.7493,-73.82181,718-353-0009,7:50 AM,3:00 PM,666,5.3%,14.9%,18.3%,60.7%,521,457,451,89.4%
+25Q263,Flushing International High School,Queens,Q189,144-80 Barclay Avenue,Flushing,NY,11355,40.76041,-73.81838,718-463-2348,8:40 AM,3:30 PM,437,2.5%,2.5%,38.4%,55.6%,481,323,323,67.7%
+25Q285,World Journalism Preparatory (College Board),Queens,Q025,34-65 192nd Street,Flushing,NY,11358,40.76512,-73.79006,718-461-2219,8:00 AM,3:00 PM,610,50.3%,9.1%,22.7%,15.8%,484,491,487,89.2%
+26Q495,Bayside High School,Queens,Q405,32-24 Corporal Kennedy Street,Bayside,NY,11361,40.77187,-73.78039,718-229-7600,8:00 AM,3:30 PM,3336,18.1%,13.0%,27.9%,40.3%,523,479,485,76.7%
+26Q415,Benjamin N. Cardozo High School,Queens,Q415,57-00 223rd Street,Oakland Gardens,NY,11364,40.75239,-73.75608,718-279-6500,9:00 AM,4:00 PM,3505,14.9%,20.3%,19.4%,44.1%,563,505,510,75.6%
+26Q430,Francis Lewis High School,Queens,Q430,58-20 Utopia Parkway,Fresh Meadows,NY,11365,40.74056,-73.79285,718-281-8200,8:30 AM,3:15 PM,4172,14.9%,7.4%,23.1%,53.9%,562,483,485,80.7%
+25Q252,Queens School of Inquiry,Queens,Q168,158-40 76th Road,Fresh Meadows,NY,11366,40.72452,-73.80943,718-380-6929,8:38 AM,2:57 PM,557,19.2%,19.5%,21.8%,36.2%,516,493,486,88.2%
+25Q670,Robert F. Kennedy Community High School,Queens,Q707,75-40 Parsons Boulevard,Fresh Meadows,NY,11366,40.7256,-73.81072,718-969-5510,8:00 AM,2:30 PM,701,18.3%,13.0%,35.5%,31.2%,460,426,423,67.3%
+25Q425,John Bowne High School,Queens,Q425,63-25 Main Street,Flushing,NY,11367,40.7387,-73.82479,718-263-1919,9:08 AM,3:47 PM,3667,4.5%,18.4%,46.0%,29.4%,467,422,425,62.1%
+25Q525,Townsend Harris High School,Queens,Q515,149-11 Melbourne Avenue,Flushing,NY,11367,40.73441,-73.82142,718-575-5580,8:20 AM,3:00 PM,1132,21.9%,6.3%,11.6%,58.6%,680,640,661,97.1%
+24Q550,High School for Arts and Business,Queens,Q456,105-25 Horace Harding Expressway,Corona,NY,11368,40.73742,-73.85331,718-271-8383,8:45 AM,4:00 PM,870,4.1%,7.8%,77.2%,10.2%,413,405,393,76.7%
+24Q293,Civic Leadership Academy,Queens,Q744,45-10 94th Street,Elmhurst,NY,11373,40.7433,-73.87057,718-271-1487,8:30 AM,3:30 PM,479,5.6%,7.9%,71.8%,9.8%,435,424,418,68.9%
+24Q585,Maspeth High School,Queens,Q585,54-40 74th Street,Elmhurst,NY,11373,40.72954,-73.88739,718-803-7100,8:15 AM,3:05 PM,973,35.8%,2.0%,44.6%,17.5%,476,471,480,90.0%
+24Q296,Pan American International High School,Queens,Q744,45-10 94th Street,Elmhurst,NY,11373,40.7433,-73.87057,718-271-3602,8:30 AM,3:15 PM,378,0.0%,0.0%,99.7%,0.3%,340,320,318,31.9%
+24Q236,International High School for Health Sciences,Queens,Q455,48-01 90th Street,Elmhurst,NY,11373,40.74121,-73.87473,718-595-8600,8:30 AM,3:30 PM,159,8.8%,5.7%,63.5%,21.4%,,,,
+24Q455,Newtown High School,Queens,Q455,48-01 90th Street,Elmhurst,NY,11373,40.74121,-73.87473,718-595-8400,8:00 AM,3:30 PM,1921,4.3%,8.3%,61.4%,24.0%,434,401,389,39.1%
+28Q440,Forest Hills High School,Queens,Q440,67-01 110th Street,Forest Hills,NY,11375,40.72943,-73.84563,718-268-3137,,,3840,30.0%,9.6%,33.8%,24.6%,517,485,483,72.8%
+28Q167,Metropolitan Expeditionary Learning School,Queens,Q686,91-30 Metropolitan Avenue,Forest Hills,NY,11375,40.71044,-73.85063,718-286-3500,8:30 AM,3:20 PM,722,27.4%,16.5%,37.3%,14.0%,,,,
+28Q686,Queens Metropolitan High School,Queens,Q686,91-30 Metropolitan Avenue,Forest Hills,NY,11375,40.71044,-73.85063,718-286-3600,8:00 AM,2:50 PM,1035,35.7%,4.2%,46.9%,11.0%,460,448,449,76.4%
+24Q485,Grover Cleveland High School,Queens,Q485,21-27 Himrod Street,Ridgewood,NY,11385,40.71122,-73.90865,718-381-9600,8:30 AM,3:15 PM,1828,18.9%,4.5%,65.7%,9.7%,452,422,416,38.9%
+29Q313,Benjamin Franklin High School for Finance and Information Technology,Queens,Q490,207-01 116th Avenue,Cambria Heights,NY,11411,40.69781,-73.74586,718-935-3645,8:30 AM,4:00 PM,113,1.8%,70.8%,12.4%,12.4%,,,,
+29Q498,Humanities and Arts Magnet High School,Queens,Q490,207-01 116th Avenue,Cambria Heights,NY,11411,40.69554,-73.73492,718-978-2135,8:00 AM,2:45 PM,525,1.1%,81.0%,11.8%,5.5%,384,409,401,60.2%
+29Q243,Institute for Health Professions at Cambria Heights,Queens,Q490,207-01 116th Avenue,Cambria Heights,NY,11411,40.69554,-73.73492,718-723-7301,8:35 AM,3:32 PM,199,1.0%,73.9%,12.6%,9.0%,,,,
+29Q492,"Mathematics, Science Research, and Technology Magnet High School",Queens,Q490,207-01 116th Avenue,Cambria Heights,NY,11411,40.69554,-73.73492,718-978-1837,8:00 AM,2:25 PM,433,1.6%,72.3%,11.8%,9.9%,380,418,388,54.9%
+29Q259,Pathways College Preparatory School (College Board),Queens,Q192,109-89 204th Street,Saint Albans,NY,11412,40.70639,-73.75353,718-454-4957,8:00 AM,3:07 PM,599,1.3%,89.7%,5.7%,2.8%,405,427,409,72.4%
+29Q265,Excelsior Preparatory High School,Queens,Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413,40.66823,-73.75684,718-525-6507,8:10 AM,3:07 PM,491,1.2%,82.7%,9.2%,3.7%,384,407,400,70.1%
+29Q283,Preparatory Academy for Writers (College Board),Queens,Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413,40.66823,-73.75684,718-949-8405,8:00 AM,3:05 PM,552,2.4%,81.0%,8.4%,4.2%,398,410,393,69.5%
+29Q248,Queens Preparatory Academy,Queens,Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413,40.66823,-73.75684,718-712-2304,8:10 AM,2:57 PM,492,1.0%,80.7%,9.1%,4.3%,423,422,403,83.7%
+29Q272,George Washington Carver High School for the Sciences,Queens,Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413,40.66823,-73.75684,718-525-6439,8:00 AM,3:15 PM,509,1.8%,75.6%,11.4%,9.4%,439,428,419,63.5%
+27Q650,"High School for Construction Trades, Engineering, and Architecture",Queens,Q650,94-06 104th Street,Ozone Park,NY,11416,40.6894,-73.84064,718-846-6280,8:10 AM,2:34 PM,959,12.3%,10.7%,35.6%,35.5%,489,457,451,78.9%
+27Q480,John Adams High School,Queens,Q480,101-01 Rockaway Boulevard,Ozone Park,NY,11417,40.67983,-73.83832,718-322-0500,8:00 AM,3:30 PM,2634,2.9%,23.9%,37.9%,31.0%,418,401,395,38.4%
+27Q308,Robert H. Goddard High School of Communication Arts and Technology,Queens,Q202,138-30 Lafayette Street,Ozone Park,NY,11417,40.67177,-73.84498,718-848-8357,7:25 AM,2:15 PM,602,17.6%,7.3%,41.7%,29.4%,426,435,424,85.1%
+27Q475,Richmond Hill High School,Queens,Q475,89-30 114th Street,Richmond Hill,NY,11418,40.69565,-73.83358,718-846-3335,8:00 AM,3:00 PM,2175,5.4%,13.6%,48.2%,31.4%,413,406,399,37.9%
+27Q334,Epic High School North,Queens,Q636,94-25 117th Street,South Richmond Hill,NY,11419,40.69288,-73.82931,718-935-3597,9:00 AM,4:00 PM,93,5.4%,21.5%,37.6%,19.4%,,,,
+27Q314,Epic High School South,Queens,Q226,121-10 Rockaway Boulevard,Queens,NY,11420,40.67574,-73.81697,718-935-3643  ,9:00 AM,4:00 PM,87,6.9%,32.2%,26.4%,26.4%,,,,
+29Q326,Cambria Heights Academy,Queens,Q799,188-04 91st Avenue,Hollis,NY,11423,40.71182,-73.77119,718-776-2815,9:00 AM,4:00 PM,372,2.2%,79.0%,9.1%,6.7%,418,424,411,58.5%
+26Q566,"Queens High School of Teaching, Liberal Arts, and the Sciences",Queens,Q566,74-20 Commonwealth Boulevard,Bellerose,NY,11426,40.7449,-73.72691,718-736-7100,8:30 AM,3:30 PM,1120,8.4%,48.1%,17.5%,24.8%,453,434,439,72.4%
+26Q315,Business Technology Early College High School,Queens,Q435,230-17 Hillside Avenue,Queens Village,NY,11427,40.73282,-73.73965,718-935-3651,8:30 AM,4:00 PM,112,8.0%,32.1%,28.6%,22.3%,,,,
+26Q435,Martin Van Buren High School,Queens,Q435,230-17 Hillside Avenue,Queens Village,NY,11427,40.73282,-73.73965,718-776-4728,7:45 AM,3:14 PM,1742,3.6%,52.7%,13.0%,27.0%,397,396,391,40.0%
+28Q680,Queens Gateway to Health Sciences Secondary School,Queens,Q695,160-20 Goethals Avenue,Jamaica,NY,11432,40.71881,-73.8065,718-969-3155,8:00 AM,2:30 PM,779,2.9%,38.2%,14.2%,43.3%,524,511,514,92.5%
+28Q350,Jamaica Gateway to the Sciences,Queens,Q470,167-01 Gothic Drive,Jamaica,NY,11432,40.71358,-73.79652,718-480-2689,8:15 AM,3:00 PM,516,2.3%,42.6%,10.9%,40.7%,487,460,463,78.6%
+28Q328,High School for Community Leadership,Queens,Q470,167-01 Gothic Drive,Jamaica,NY,11432,40.71358,-73.79652,718-558-9801,9:00 AM,3:45 PM,418,4.5%,42.3%,26.6%,22.7%,415,392,386,72.3%
+28Q896,Young Women's Leadership School in Queens,Queens,Q680,150-91 87th Road,Jamaica,NY,11432,40.70821,-73.80408,718-725-0402,8:00 AM,2:57 PM,557,1.9%,47.5%,19.7%,26.9%,415,420,433,90.4%
+28Q310,Queens Collegiate (College Board),Queens,Q470,167-01 Gothic Drive,Jamaica,NY,11432,40.71358,-73.79652,718-658-4016,8:15 AM,3:00 PM,661,4.1%,53.4%,16.1%,24.8%,455,439,441,74.8%
+28Q505,Hillcrest High School,Queens,Q505,160-05 Highland Avenue,Jamaica,NY,11432,40.70876,-73.80213,718-658-5407,8:00 AM,3:30 PM,3286,3.8%,30.3%,28.8%,34.5%,448,432,426,51.8%
+28Q620,Thomas A. Edison Career and Technical Education High School,Queens,Q620,165-65 84th Avenue,Jamaica,NY,11432,40.71588,-73.79882,718-297-6580,8:00 AM,3:30 PM,2098,4.2%,20.9%,22.4%,49.0%,514,473,470,80.0%
+28Q325,Hillside Arts and Letters Academy,Queens,Q470,167-01 Gothic Drive,Jamaica,NY,11432,40.71358,-73.79652,718-658-1249,8:15 AM,3:00 PM,464,3.0%,37.7%,24.4%,27.8%,409,399,404,62.6%
+28Q284,York Early College Academy,Queens,Q008,108-35 167th Street,Jamaica,NY,11433,40.69694,-73.78698,718-262-8547,8:00 AM,3:00 PM,611,1.2%,58.0%,10.3%,28.7%,496,481,473,92.9%
+28Q687,Queens High School for the Sciences at York College,Queens,Q774,94-50 159th Street,Jamaica,NY,11433,40.701,-73.79815,718-657-3181,8:00 AM,3:18 PM,426,6.1%,7.0%,10.6%,75.4%,701,621,625,97.9%
+28Q690,High School for Law Enforcement and Public Safety,Queens,Q690,116-25 Guy R Brewer Boulevard,Jamaica,NY,11434,40.68618,-73.78408,718-977-4800,8:00 AM,3:00 PM,604,1.8%,66.4%,18.9%,10.4%,410,431,409,56.6%
+29Q327,Eagle Academy for Young Men III,Queens,Q633,171-10 Linden Boulevard,Jamaica,NY,11434,40.69167,-73.77903,718-480-2600,8:45 AM,4:45 PM,428,1.8%,86.3%,5.4%,0.6%,,,,
+27Q400,August Martin High School,Queens,Q400,156-10 Baisley Boulevard,Jamaica,NY,11434,40.67553,-73.78343,718-528-2920,8:00 AM,3:30 PM,679,1.5%,75.4%,13.0%,7.5%,366,372,364,26.3%
+27Q260,Frederick Douglass Academy VI High School,Queens,Q465,8-21 Bay 25th Street,Far Rockaway,NY,11691,40.60199,-73.76283,718-471-2154,7:45 AM,2:05 PM,409,0.7%,59.7%,37.9%,1.5%,410,418,407,30.1%
+27Q309,Academy of Medical Technology (College Board),Queens,Q465,8-21 Bay 25th Street,Far Rockaway,NY,11691,40.60199,-73.76283,718-471-3571,8:00 AM,3:15 PM,637,2.7%,50.1%,37.7%,6.6%,422,424,415,67.6%
+27Q302,"Queens High School for Information, Research, and Technology",Queens,Q465,8-21 Bay 25th Street,Far Rockaway,NY,11691,40.60199,-73.76283,718-868-2978,7:45 AM,4:10 PM,381,2.1%,49.1%,43.6%,4.2%,372,362,352,44.6%
+27Q324,Rockaway Park High School for Environmental Sustainability,Queens,Q410,100-00 Beach Channel Drive,Rockaway Park,NY,11694,40.58601,-73.82309,718-734-3280,8:45 AM,3:30 PM,368,14.7%,46.7%,30.2%,3.5%,357,381,376,38.5%
+27Q262,Channel View School for Research,Queens,Q410,100-00 Beach Channel Drive,Rockaway Park,NY,11694,40.58601,-73.82309,718-634-1970,8:15 AM,3:04 PM,683,10.7%,53.2%,29.1%,6.0%,427,430,423,76.6%
+27Q351,Rockaway Collegiate High School,Queens,Q410,100-00 Beach Channel Drive,Rockaway Park,NY,11694,40.58601,-73.82309,718-734-3290,8:30 AM,4:20 PM,397,3.8%,52.6%,33.5%,5.0%,399,403,405,46.5%
+27Q323,Scholars' Academy,Queens,Q180,320 Beach 104th Street,Rockaway Park,NY,11694,40.58413,-73.82568,718-474-6918,8:45 AM,3:00 PM,1302,34.7%,22.7%,19.6%,21.4%,588,560,568,99.2%
